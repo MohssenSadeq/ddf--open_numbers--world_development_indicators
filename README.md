@@ -6,7 +6,7 @@ Gapminder's World Development Indicators
 
 - List of indicators in this repo
 
-## Definition of indicator
+## Defnition of indicator
 
 
 ## Unit of measurement
